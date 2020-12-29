@@ -27,8 +27,6 @@ This project will be based on Cross-industry standard process for data mining (C
 
 - The dataset is available on <a href="https://www.kaggle.com/c/grupo-bimbo-inventory-demand/data">Kaggle</a>.
 
-## Data Preparation
-
 > **Data fields**
 >> - Semana: Week number
 >> - Agencia_ID: Sales Depot ID
@@ -44,6 +42,8 @@ This project will be based on Cross-industry standard process for data mining (C
 >> - Dev_proxima: Returns next week (unit: pesos)
 >
 > - **Demanda_uni_equil**: Adjusted Demand (This is the target to predict)
+
+## Data Preparation
 
 # Team
 > - <a href="https://github.com/FabioCaffarello">Fabio Caffarello</a>
