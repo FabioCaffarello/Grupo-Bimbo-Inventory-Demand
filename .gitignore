@@ -1,3 +1,6 @@
+#Virtual Documents
+.virtual_documents/*
+
 #Data folder
 00-Data/*
 
